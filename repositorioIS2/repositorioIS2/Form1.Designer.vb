@@ -25,16 +25,17 @@ Partial Class Form1
         Label1 = New Label()
         Label2 = New Label()
         Button1 = New Button()
-        Button2 = New Button()
+        btnCalculos = New Button()
+        Salir = New Button()
         SuspendLayout()
         ' 
         ' Label1
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Century Schoolbook", 16F)
-        Label1.Location = New Point(43, 42)
+        Label1.Location = New Point(49, 56)
         Label1.Name = "Label1"
-        Label1.Size = New Size(240, 27)
+        Label1.Size = New Size(303, 33)
         Label1.TabIndex = 0
         Label1.Text = "Repositorio en GitHub"
         ' 
@@ -42,40 +43,54 @@ Partial Class Form1
         ' 
         Label2.AutoSize = True
         Label2.Font = New Font("Century Schoolbook", 9.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(43, 282)
+        Label2.Location = New Point(49, 376)
         Label2.Name = "Label2"
-        Label2.Size = New Size(87, 48)
+        Label2.Size = New Size(118, 63)
         Label2.TabIndex = 1
         Label2.Text = "Estudiantes:" & vbCrLf & "Ana Díaz" & vbCrLf & "Carlos Robles"
         ' 
         ' Button1
         ' 
         Button1.Font = New Font("Baskerville Old Face", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Button1.Location = New Point(91, 121)
+        Button1.Location = New Point(104, 161)
+        Button1.Margin = New Padding(3, 4, 3, 4)
         Button1.Name = "Button1"
-        Button1.Size = New Size(138, 38)
+        Button1.Size = New Size(158, 51)
         Button1.TabIndex = 2
         Button1.Text = "TicTacToe"
         Button1.UseVisualStyleBackColor = True
         ' 
-        ' Button2
+        ' btnCalculos
         ' 
-        Button2.Font = New Font("Baskerville Old Face", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Button2.Location = New Point(91, 200)
-        Button2.Name = "Button2"
-        Button2.Size = New Size(138, 38)
-        Button2.TabIndex = 3
-        Button2.UseVisualStyleBackColor = True
+        btnCalculos.Font = New Font("Baskerville Old Face", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        btnCalculos.Location = New Point(104, 267)
+        btnCalculos.Margin = New Padding(3, 4, 3, 4)
+        btnCalculos.Name = "btnCalculos"
+        btnCalculos.Size = New Size(158, 51)
+        btnCalculos.TabIndex = 3
+        btnCalculos.Text = "Calculos"
+        btnCalculos.UseVisualStyleBackColor = True
+        ' 
+        ' Salir
+        ' 
+        Salir.Location = New Point(269, 424)
+        Salir.Name = "Salir"
+        Salir.Size = New Size(94, 29)
+        Salir.TabIndex = 4
+        Salir.Text = "Salir"
+        Salir.UseVisualStyleBackColor = True
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(328, 349)
-        Controls.Add(Button2)
+        ClientSize = New Size(375, 465)
+        Controls.Add(Salir)
+        Controls.Add(btnCalculos)
         Controls.Add(Button1)
         Controls.Add(Label2)
         Controls.Add(Label1)
+        Margin = New Padding(3, 4, 3, 4)
         Name = "Form1"
         Text = "Laboratorio No. 2"
         ResumeLayout(False)
@@ -85,6 +100,7 @@ Partial Class Form1
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
+    Friend WithEvents btnCalculos As Button
+    Friend WithEvents Salir As Button
 
 End Class

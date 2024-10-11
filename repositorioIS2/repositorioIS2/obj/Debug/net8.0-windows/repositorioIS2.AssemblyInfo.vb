@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("repositorioIS2"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+767d138855ba9596bb0aaf4dbd6f0d71270bb7be"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e999553361ac246b6d0a9c339067e32f8512a52f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("repositorioIS2"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("repositorioIS2"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
