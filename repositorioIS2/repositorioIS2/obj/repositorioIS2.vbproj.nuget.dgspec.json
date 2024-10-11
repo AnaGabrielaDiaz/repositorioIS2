@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calit\\OneDrive\\Documentos\\GitHub\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj": {}
+    "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\calit\\OneDrive\\Documentos\\GitHub\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj": {
+    "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calit\\OneDrive\\Documentos\\GitHub\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj",
+        "projectUniqueName": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj",
         "projectName": "repositorioIS2",
-        "projectPath": "C:\\Users\\calit\\OneDrive\\Documentos\\GitHub\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj",
-        "packagesPath": "C:\\Users\\calit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calit\\OneDrive\\Documentos\\GitHub\\repositorioIS2\\repositorioIS2\\repositorioIS2\\obj\\",
+        "projectPath": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\repositorioIS2.vbproj",
+        "packagesPath": "C:\\Users\\Ana Diaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\calit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ana Diaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

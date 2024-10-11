@@ -35,3 +35,4 @@ C:\Users\calit\OneDrive\Documentos\GitHub\repositorioIS2\repositorioIS2\reposito
 C:\Users\calit\OneDrive\Documentos\GitHub\repositorioIS2\repositorioIS2\repositorioIS2\obj\Debug\net8.0-windows\repositorioIS2.pdb
 C:\Users\calit\OneDrive\Documentos\GitHub\repositorioIS2\repositorioIS2\repositorioIS2\obj\Debug\net8.0-windows\repositorioIS2.genruntimeconfig.cache
 C:\Users\calit\OneDrive\Documentos\GitHub\repositorioIS2\repositorioIS2\repositorioIS2\obj\Debug\net8.0-windows\ref\repositorioIS2.dll
+C:\Users\Ana Diaz\source\repos\repositorioIS2\repositorioIS2\repositorioIS2\obj\Debug\net8.0-windows\repositorioIS2.calculos.resources

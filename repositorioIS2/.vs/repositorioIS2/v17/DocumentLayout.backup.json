@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\calculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|solutionrelative:repositoriois2\\calculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\calculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|solutionrelative:repositoriois2\\calculos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\tictactoe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|solutionrelative:repositoriois2\\tictactoe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|solutionrelative:repositoriois2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|solutionrelative:repositoriois2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33BB3498-7327-4435-AEB2-09B8F623622E}|repositorioIS2\\repositorioIS2.vbproj|c:\\users\\ana diaz\\source\\repos\\repositoriois2\\repositoriois2\\repositoriois2\\tictactoe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -18,8 +34,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 252,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculos.vb",
+              "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\calculos.vb",
+              "RelativeDocumentMoniker": "repositorioIS2\\calculos.vb",
+              "ToolTip": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\calculos.vb",
+              "RelativeToolTip": "repositorioIS2\\calculos.vb",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwL0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T16:34:55.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\Form1.vb",
+              "RelativeDocumentMoniker": "repositorioIS2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "repositorioIS2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T16:40:18.643Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -34,20 +77,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\Form1.vb",
+              "RelativeDocumentMoniker": "repositorioIS2\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\Form1.vb",
+              "RelativeToolTip": "repositorioIS2\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T16:41:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\calculos.vb",
+              "RelativeDocumentMoniker": "repositorioIS2\\calculos.vb",
+              "ToolTip": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\calculos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "repositorioIS2\\calculos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T16:32:56Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TicTacToe.vb",
               "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\TicTacToe.vb",
               "RelativeDocumentMoniker": "repositorioIS2\\TicTacToe.vb",
               "ToolTip": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\TicTacToe.vb",
               "RelativeToolTip": "repositorioIS2\\TicTacToe.vb",
-              "ViewState": "AgIAABQAAAAAmZmZmZkswB8AAAAeAAAAAAAAAA==",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAcwPcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-11T15:21:47.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:21:47.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TicTacToe.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Ana Diaz\\source\\repos\\repositorioIS2\\repositorioIS2\\repositorioIS2\\TicTacToe.vb",
               "RelativeDocumentMoniker": "repositorioIS2\\TicTacToe.vb",
@@ -56,6 +122,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-11T15:09:59.653Z",
               "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 360,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

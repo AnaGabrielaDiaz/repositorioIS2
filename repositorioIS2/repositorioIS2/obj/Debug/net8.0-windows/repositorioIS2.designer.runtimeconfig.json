@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\calit\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\calit\\.nuget\\packages"
+      "C:\\Users\\Ana Diaz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ana Diaz\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
